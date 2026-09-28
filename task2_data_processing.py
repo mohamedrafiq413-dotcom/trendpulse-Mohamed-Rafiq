@@ -7,7 +7,7 @@ import pandas as pd
 import os
 
 # Load the JSON file collected in Task 1
-input_file = "trends_20260928.json"
+input_file = "data/trends_20260928.json"
 df = pd.read_json(input_file)
 
 # Print the number of stories loaded
