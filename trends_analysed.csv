@@ -1,0 +1,77 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+49875913,"Parley: Federated, decentralised chat that speaks plain IRC",technology,87,24,davidcollantes,2026-09-28 12:23:29,0.2727272727272727,False
+49875148,AI companies in race to demonstrate their model most threatening to humanity,technology,124,68,ljewalsh,2026-09-28 12:23:29,0.544,False
+49873241,Thinking fast and slow in AI: The role of metacognition (2021),technology,125,40,teleforce,2026-09-28 12:23:29,0.31746031746031744,False
+49872883,Nissan's third generation e-POWER powertrain,technology,92,118,mroche,2026-09-28 12:23:29,1.2688172043010753,False
+49869755,Malleable software: Restoring user agency in a world of locked-down apps (2025),technology,110,51,evakhoury,2026-09-28 12:23:30,0.4594594594594595,False
+49868404,Don't couple your Go code to GitHub,technology,269,126,birdculture,2026-09-28 12:23:30,0.4666666666666667,True
+49849409,Writing Efficient C++ Code (2013),technology,165,127,ibobev,2026-09-28 12:23:30,0.7650602409638554,True
+49857281,There is more to code review than (automatable) detection,technology,147,94,utiiiD,2026-09-28 12:23:31,0.6351351351351351,True
+49856885,Fakecloud: Local AWS cloud emulator for integration tests,technology,143,72,theanonymousone,2026-09-28 12:23:31,0.5,True
+49868753,"Calling the AI bluff: Adding ""Do not guess"" cut made-up claims from 71% to 20%",technology,57,14,FKJ,2026-09-28 12:23:31,0.2413793103448276,False
+49867775,Show HN: TinyAIArena watch AI agents battle it out,technology,110,44,hp6,2026-09-28 12:23:31,0.3963963963963964,False
+49875347,"Big AI's content problem: Take the work, keep the money",technology,8,0,samizdis,2026-09-28 12:23:32,0.0,False
+49867486,The Normalization of Inexplicable Failures,technology,268,114,pxx,2026-09-28 12:23:32,0.42379182156133827,True
+49872200,Cambrian Explosion of AI,technology,12,11,debarshri,2026-09-28 12:23:32,0.8461538461538461,False
+49867067,On caring for user data: NeoVim caused Vim undo files to be deleted,technology,375,329,jandeboevrie,2026-09-28 12:23:32,0.875,True
+49870377,Luarocks.org remote code execution exploit,technology,28,4,cupcakerob,2026-09-28 12:23:32,0.13793103448275862,False
+49875895,Congressman Cohen Introduces Articles of Impeachment Against President Trump,technology,20,1,hkhn,2026-09-28 12:23:32,0.047619047619047616,False
+49866534,Ten lines of code that changed my world,technology,135,42,dimonomid,2026-09-28 12:23:32,0.3088235294117647,False
+49863864,Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI,technology,617,605,papergirl,2026-09-28 12:23:33,0.9789644012944984,True
+49872468,OpenAI pauses training of latest models after agents probed US Government sites,technology,28,2,daniel_iversen,2026-09-28 12:23:33,0.06896551724137931,False
+49868083,"There are no ""rogue"" AI agents",technology,371,253,zzzeek,2026-09-28 12:23:33,0.6801075268817204,True
+49857132,Golang: Crypto/fips140: do not bloat crypto code unnecessarily,technology,16,3,zx2c4,2026-09-28 12:23:34,0.17647058823529413,False
+49851883,Generate fonts where every LLM token is the same width,technology,89,23,z-mach9,2026-09-28 12:23:34,0.25555555555555554,False
+49849985,Revealing the details of how OpenAI agents hacked Hugging Face,technology,744,465,specked-citrus,2026-09-28 12:23:34,0.6241610738255033,True
+49875401,Three Days in August: What a DDoS Attack Exposed in Our Network,worldnews,10,6,nine_ch,2026-09-28 12:23:37,0.5454545454545454,False
+49872636,"Comet SWAN26Q – The unconfirmed Scout object warrants monitoring, not concern",worldnews,5,1,JEOFFEZZ,2026-09-28 12:23:48,0.16666666666666666,False
+49841563,Dutch governments builds alternative for Microsoft based on NixOS,worldnews,1009,581,fjfaase,2026-09-28 12:23:49,0.5752475247524752,True
+49871877,Judge orders release of records on Nazi war criminals who settled in Canada,worldnews,26,7,Teever,2026-09-28 12:23:51,0.25925925925925924,False
+49829960,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,worldnews,323,330,nonfamous,2026-09-28 12:23:51,1.0185185185185186,True
+49871846,The great crime decline is happening all across the country,worldnews,37,48,andsoitis,2026-09-28 12:23:54,1.263157894736842,False
+49811065,Transit rewards,worldnews,258,345,raybb,2026-09-28 12:23:56,1.332046332046332,True
+49869691,Meta's Muse agent is attacking one of the economy's most profitable weak spots,worldnews,8,1,pseudolus,2026-09-28 12:23:56,0.1111111111111111,False
+49828409,Starlink ground station in Poland hit by fire in suspected arson attack,worldnews,181,181,giuliomagnifico,2026-09-28 12:23:56,0.9945054945054945,True
+49835913,August 27 TCRF DDoS Attack Postmortem,worldnews,34,14,panic,2026-09-28 12:23:57,0.4,False
+49808109,The UV index is not the warm sensation of sunlight on bare skin,worldnews,99,79,evakhoury,2026-09-28 12:24:02,0.79,False
+49869242,How the Smithsonian became the latest front in Trump's culture war,worldnews,9,0,rbanffy,2026-09-28 12:24:04,0.0,False
+49849820,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,sports,63,43,msephton,2026-09-28 12:24:18,0.671875,False
+49844642,What happens when you analyze your favorite college football team like the CIA?,sports,64,35,adam,2026-09-28 12:24:18,0.5384615384615384,False
+49836590,The Board Game of the Alpha Nerds (2014),sports,122,65,neonate,2026-09-28 12:24:20,0.5284552845528455,False
+49849406,Time Measurement in Game Programming,sports,13,0,ibobev,2026-09-28 12:24:28,0.0,False
+49829387,Hackers influence ChatGPT and Gemini to direct users to scam centers,sports,143,52,ArielSimon,2026-09-28 12:24:31,0.3611111111111111,True
+49847157,Show HN: I made a WWI dogfight game that runs in the browser,sports,7,7,fullstackwife,2026-09-28 12:24:36,0.875,False
+49875411,SpaceX's Starship launching to orbit for first time ever today,science,113,28,geox,2026-09-28 12:24:40,0.24561403508771928,False
+49866951,"In an $80 motel room, a discovery to shed light on the origins of life",science,259,96,danso,2026-09-28 12:24:41,0.36923076923076925,True
+49872497,Research finds 485 chemicals in US pesticide products linked to breast cancer,science,87,25,Teever,2026-09-28 12:24:47,0.2840909090909091,False
+49839438,"Biology might not be quantum, but its math is quantumlike",science,120,60,pseudolus,2026-09-28 12:24:47,0.49586776859504134,False
+49830606,Google’s Project Suncatcher to put ML infrastructure in space,science,232,540,xnx,2026-09-28 12:24:55,2.3175965665236054,True
+49872143,The Truth Physics Can No Longer Ignore,science,10,11,jdkee,2026-09-28 12:24:55,1.0,False
+49853918,Alberta's image as world's only rat-free region shattered by discovery of rat,science,47,34,pseudolus,2026-09-28 12:25:00,0.7083333333333334,False
+49868561,Flock seeks to have security researchers' map of Flock cameras taken down,science,8,2,sbulaev,2026-09-28 12:25:02,0.2222222222222222,False
+49835866,Ask HN: Any nerds out there who've read a lot of research papers?,science,29,28,shriy-singh,2026-09-28 12:25:02,0.9333333333333333,False
+49824969,FLAWED's Flaws and What This Means for Industry Research,science,24,4,tob_scott_a,2026-09-28 12:25:04,0.16,False
+49869574,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,entertainment,268,113,safaelmali,2026-09-28 12:25:13,0.4200743494423792,True
+49845172,Show HN: Jev Plays Pokémon Red,entertainment,273,121,pancomplex,2026-09-28 12:25:15,0.4416058394160584,True
+49870394,"Show HN: Cartopolis, interactive globe-sized 3D world",entertainment,16,3,jvanveen,2026-09-28 12:25:17,0.17647058823529413,False
+49858513,Show HN: Reladraw – A diagram language where you decide where to place things,entertainment,397,115,jpwalsh234,2026-09-28 12:25:17,0.2889447236180904,True
+49871569,"Show HN: Fusor – Like Vue, but the logic is Rust",entertainment,6,1,andreespirela,2026-09-28 12:25:20,0.14285714285714285,False
+49872766,"Musk, the Movie",entertainment,154,103,yablak,2026-09-28 12:25:21,0.6645161290322581,True
+49824144,Show HN: A CC0 museum of retro 3D tricks you can paste into a page,entertainment,72,14,SouthWestAtlas,2026-09-28 12:25:21,0.1917808219178082,False
+49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,entertainment,421,106,pseudolus,2026-09-28 12:25:21,0.25118483412322273,True
+49870654,Show HN: Jevdit – a social network moderated by Jev,entertainment,10,1,TN1ck,2026-09-28 12:25:22,0.09090909090909091,False
+49849986,Show HN: Ekselio – Loveable for finance workflows (local first),entertainment,40,12,kdautaj,2026-09-28 12:25:22,0.2926829268292683,False
+49868710,"Show HN: Gat – Version large files with Git, without an LFS server",entertainment,7,0,davnn,2026-09-28 12:25:24,0.0,False
+49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,entertainment,86,28,andrearitossa,2026-09-28 12:25:24,0.3218390804597701,False
+49867443,"Show HN: High-performance, zero-dependency charting engine for Svelte",entertainment,6,0,bonguynvan,2026-09-28 12:25:25,0.0,False
+49875006,Maybe don't let Muse run your Facebook Marketplace account,entertainment,48,56,embedding-shape,2026-09-28 12:25:26,1.1428571428571428,False
+49858409,"Show HN: Spivak's Calculus formalized in Lean 4 – every theorem, every problem",entertainment,21,2,jsLavaGoat,2026-09-28 12:25:28,0.09090909090909091,False
+49866597,"Show HN: Building a Markdown editor for Mac, iOS and web",entertainment,68,49,thiagoperes,2026-09-28 12:25:29,0.7101449275362319,False
+49821438,Show HN: AgentRun: DSL to turn agents into workflows,entertainment,51,12,miguelrios,2026-09-28 12:25:29,0.23076923076923078,False
+49823738,Show HN: Make cursed fonts like Times New Bastard,entertainment,858,123,MitPitt,2026-09-28 12:25:31,0.14318975552968569,True
+49801329,Show HN: Drop – A rootless Linux sandbox with gVisor support,entertainment,193,63,mixedbit,2026-09-28 12:25:32,0.3247422680412371,True
+49856691,Show HN: I checked 1M free proxies – 1 in 5 working ones injected scripts,entertainment,10,1,taventix,2026-09-28 12:25:32,0.09090909090909091,False
+49800574,"Show HN: JevBench, a reproducible benchmark for typed decision models",entertainment,150,39,florianstandhar,2026-09-28 12:25:33,0.2582781456953642,True
+49842596,Show HN: Agentic CUDA Kernel Optimizer,entertainment,37,11,bertaye,2026-09-28 12:25:34,0.2894736842105263,False
+49832080,Show HN: Most Hated Tools,entertainment,32,20,leonagano,2026-09-28 12:25:35,0.6060606060606061,False
+49823332,Show HN: Jevgpt – reinventing the wheel with another wheel,entertainment,25,2,kunggaochicken,2026-09-28 12:25:36,0.07692307692307693,False
